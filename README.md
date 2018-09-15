@@ -1,6 +1,13 @@
 # ArduinoQuickStart
 快速学会Arduino开发
 
+# 开源地址 
+
+| 镜像 | 链接 |
+| --- | --- |
+| Github | [https://github.com/plter/ArduinoQuickStart](https://github.com/plter/ArduinoQuickStart) |
+| Gitee | [https://gitee.com/plter/ArduinoQuickStart](https://gitee.com/plter/ArduinoQuickStart) |
+
 # 资源下载 
 
 * Arduino IDE 下载 [https://pan.baidu.com/s/13d2xHgKt4qr_kFJNPV1NHw](https://pan.baidu.com/s/13d2xHgKt4qr_kFJNPV1NHw)
