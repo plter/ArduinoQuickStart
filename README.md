@@ -7,6 +7,7 @@
 | --- | --- |
 | Github | [https://github.com/plter/ArduinoQuickStart](https://github.com/plter/ArduinoQuickStart) |
 | Gitee | [https://gitee.com/plter/ArduinoQuickStart](https://gitee.com/plter/ArduinoQuickStart) |
+| i2c 1602 | [https://github.com/fdebrabander/Arduino-LiquidCrystal-I2C-library](https://github.com/fdebrabander/Arduino-LiquidCrystal-I2C-library) |
 
 # 资源下载 
 
@@ -24,12 +25,10 @@
     1. 循环 
     1. 流程控制 
     1. 函数 
-    1. 字符串 
     1. 数组 
     1. 结构体 
 1. IO 
     1. 点亮 LED 
-    1. LED 闪烁 
     1. LED 呼吸灯 
     1. 按钮 
     1. RGBLED 
