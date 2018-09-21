@@ -1,5 +1,11 @@
 # ArduinoQuickStart
-快速学会Arduino开发
+Arduino课程之快速学会Arduino开发  
+
+Arduino 是个很好玩的开源硬件平台，编程使用C语言，由于开发板编程逻辑都比较简单，并不会使用到C语言的复杂用法，所以简单易学。
+
+# 课程 
+
+* 在线观看 [https://yunp.top/m/course/v/1101](https://yunp.top/m/course/v/1101) 
 
 # 开源地址 
 
