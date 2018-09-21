@@ -6,6 +6,7 @@ Arduino 是个很好玩的开源硬件平台，编程使用C语言，由于开�
 # 课程 
 
 * 在线观看 [https://yunp.top/m/course/v/1101](https://yunp.top/m/course/v/1101) 
+* 购买配套硬件 [https://item.taobao.com/item.htm?id=577952574800](https://item.taobao.com/item.htm?id=577952574800)
 
 # 开源地址 
 
